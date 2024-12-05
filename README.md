@@ -57,3 +57,5 @@ AgroForm empowers farmers by offering:
 ---
 
 ### **Snapshots**  
+![AGROFARM](https://github.com/user-attachments/assets/5cac8b85-a7d8-41ba-aa01-181af13e432f)
+
